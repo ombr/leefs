@@ -1,0 +1,32 @@
+
+
+Blocs :
+
+Selector (Take a path, type and return the object right exporter/templater)
+Exporter (Take a path -> Object)
+Templater (Take a path -> Object)
+
+
+/2012/Out/
+
+-> Type of the object we want to export ?
+    Path2Type -> Dir Jpg Gif ...
+-> Selector on the type to get the exporter
+-> Export the path
+-> Selector on the the template
+-> Rendering, We're done :-D
+
+.leefs/
+.leefs/template/
+.leefs/exporter/
+
+
+Dossier cache dans lequel on peut mettre :
+fichier json de l'exporter ?
+fichier image transformer
+
+
+
+Droits d'access :
+
+Check on tags extracted.
