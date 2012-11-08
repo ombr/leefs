@@ -1,0 +1,9 @@
+[submodule "jade"]
+	path = jade
+	url = https://github.com/visionmedia/jade.git
+[submodule "socket.io"]
+	path = socket.io
+	url = https://github.com/LearnBoost/socket.io.git
+[submodule "watch"]
+	path = watch
+	url = https://github.com/mikeal/watch.git
