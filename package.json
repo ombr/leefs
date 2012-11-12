@@ -1,0 +1,22 @@
+{
+  "name": "leefs",
+  "version": "0.0.1",
+  "description": "lee(t)fs is an event oriented and file based blogging system",
+  "main": "leefs.js",
+  "scripts": {
+    "test": "test/runtests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ombr/leefs.git"
+  },
+  "keywords": [
+    "leefs",
+    "filesystem",
+    "blog",
+    "event",
+    "node"
+  ],
+  "author": "e.botros",
+  "license": "GPL v3.0"
+}
